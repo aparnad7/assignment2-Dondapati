@@ -37,6 +37,7 @@ This table shows cities that I recommend visiting in India and listing the major
 
 ## Pithy Quotes
 >"Love all, trust a few, do wrong to none" by *William Shakespeare*
+
 >"Get busy living or get busy dying" by *Stephen King*
 -----------------------------------------
 
