@@ -20,6 +20,7 @@ The airport that is closer to thr royal ontario museum is Billy Bishop Toronto C
 * Royal conservatory of music
 * Gaediner museum
 * The church of the redeemer
+------------------------------
 
 ## Tables
 This table shows cities that I recommend visiting in India and listing the major attractions to be visited in the city and worth time spending on each location.
@@ -31,6 +32,11 @@ This table shows cities that I recommend visiting in India and listing the major
 |Agra            |Taj Mahal                      | 3 Hours          |
 |Jaipur          |City Palace                    | 8 Hours          |
 |Srinagar        |Tulip Garden and Dal Lake      | 12 hours         |
+
+-------------------------------------------
+
+## Pithy Quotes
+
 
 
 
