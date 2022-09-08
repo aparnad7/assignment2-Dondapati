@@ -21,6 +21,19 @@ The airport that is closer to thr royal ontario museum is Billy Bishop Toronto C
 * Gaediner museum
 * The church of the redeemer
 
+---Tables
+This table shows cities that I recommend visiting in India and listing the major attractions to be visited in the city and worth time spending on each location.
+
+|Name of the city| Important location in the city| Time  to be spent|
+|----------------|-------------------------------|------------------|
+|Delhi           |Lotus Temple                   | 2 Hours          |
+|Hyderabad       |Golkonda fort                  | 5 Hours          |
+|Agra            |Taj Mahal                      | 3 Hours          |
+|Jaipur          |City Palace                    | 8 Hours          |
+|Srinagar        |Tulip Garden and Dal Lake      | 12 hours         |
+
+
+
 
 [AboutMe.md](C:\Users\S555671\Desktop\webapps-repos\firstrepo\AboutMe.md)
 
