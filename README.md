@@ -21,7 +21,7 @@ The airport that is closer to thr royal ontario museum is Billy Bishop Toronto C
 * Gaediner museum
 * The church of the redeemer
 
----Tables
+## Tables
 This table shows cities that I recommend visiting in India and listing the major attractions to be visited in the city and worth time spending on each location.
 
 |Name of the city| Important location in the city| Time  to be spent|
