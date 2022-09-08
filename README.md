@@ -73,6 +73,8 @@ $.typewriter h1 {
 
 [CSS Snippet source](https://css-tricks.com/snippets/css/typewriter-effect/)
 
+----------------------------------------
+
 
 
 
